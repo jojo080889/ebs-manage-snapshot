@@ -1,7 +1,7 @@
 ebs-manage-snapshot
 ===================
 
-A small script to make and delete AWS EBS snapshots. Based on [this script](http://stackoverflow.com/questions/9667390/how-to-automatically-snapshot-a-volume-of-an-amazon-ec2-instance) and [this StackOverflow question](http://stackoverflow.com/questions/9667390/how-to-automatically-snapshot-a-volume-of-an-amazon-ec2-instance). 
+A small script to help automatically make AWS EBS snapshots. This script can also delete snapshots older than a certain number of days. Based on [this script](http://stackoverflow.com/questions/9667390/how-to-automatically-snapshot-a-volume-of-an-amazon-ec2-instance) and [this StackOverflow question](http://stackoverflow.com/questions/9667390/how-to-automatically-snapshot-a-volume-of-an-amazon-ec2-instance). 
 
 Setup
 -----------
